@@ -1,0 +1,936 @@
+Página 1
+
+ 
+EQUIPO DE SOLDAR PARA SOLDADURA 
+CONTINUA  
+MEGAMIG 500 Y ALIMENTADOR POWER TRACK 
+     
+ 
+   
+MANUAL DEL 
+USUARIO 
+ 
+ 
+  
+MyH Comercial e Industrial Ltda. 
+Casa Matriz: Avda. Presidente Eduardo Fr ei Montalva Nº 4800 –  Renca,  Santiago 
+CHILE 
+Fono Servicio Cliente: 600 600 20 40  FAX: 600 600 50 60  
+ 
+
+
+---
+
+Página 2
+
+ 2 INSTRUCCIONES   GENERALES. 
+ 
+Estimado cliente:  
+Gracias por adquirir nuestro producto. Lea este manual cuidadosamente  antes de 
+utilizar su equipo de Soldar  de Soldadura Continua MEGA MIG 500  y 
+ALIMENATDOR  POWER TRACK de 4 Rodilllos MyH .   La información en este 
+manual considera la correcta  instalación, prueba, operación y mantención de su  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* LA INSTALACION, LA  OP ERARACION Y LA   MANTENCION, 
+SOLO DEBE SER REALIZADA PO R  PERSONAL PROFESIONAL 
+DEBIDAMENTE CAPACITADO. 
+ 
+ 
+ 
+ 
+INDICE  
+ 
+ 
+1. Introducción    3 
+• Características del equipo de  
+Soldar Mega Mig 500  3 
+ 
+2. Operación Segura   4 
+• Cuidado del usuario.  4 
+• Medidas de seguridad a tomar  
+para asegurar la correcta  
+Instalación y posición.  5 
+• Chequeo de Seguridad.  5 
+• Primeros Auxilios  5 
+ 
+3. Especificaciones Técnicas   6 
+• Ambiente al que el producto es 
+sometido   6 
+• Requerimientos para la fuente de 
+poder .   6 
+• Estructura Principal.  6 
+• Datos Técnicos.   6 
+• Normativas que cumple el  
+Equipo.    7 
+ 
+4. Instalación    7 
+• Lugar de trabajo del equipo de soldar.
+    7  
+• Conexión entre el equipo de  soldar  y  la fuente de poder.  8 
+• Conexión entre el equipo de   
+soldar y  el Alimentador.  8 
+• Conexión entre el equipo de  
+soldar y el sistema de gas.  8 
+• Instalación y conexión del 
+Alimentador POWER TRACK 8 
+ 
+5. Operación    9 
+• Diagrama de Mega Mig 500  9 
+• Diagrama de Alimentador  
+POWER TRACK                   10 
+• Procedimiento básico de  
+Soldadura    11 
+• Descripción y diagrama 
+de la Pistola    11 
+• Función 2 y 4 Tiempos.   13 
+• Mantención y servicio.  13 
+ 
+6. Solución a Problemas Comunes 15 
+ 
+7. Descripción completa del set  16 
+ 
+8. Transporte y  almacenamiento 16  9. Garantía    17 ATENCIÓN  
+
+---
+
+Página 3
+
+ 3 
+1.- Introducción. 
+ 
+El Equipo de Soldar MEGAMIG 500 Y ALIMENTADOR POWER TRACK es una 
+soldadora de soldadura continua con gas de  protección. Soldadura MIG-MAG.  Usa el 
+arco eléctrico producido entre el alambre y la  pieza a soldar como fuente de calor para 
+fundir ambos materiales formando un cordón de soldadura protegi do de la erosión del 
+medio ambiente mediante un gas de protecci ón. Este sistema de soldar facilita la 
+soldadura en toda posición y es ampliame nte usada en automatización de procesos 
+mecanizados. La soldadora MEGAMI G 500 Y ALIMENTADOR POWER TRACK  
+usa CO2 como gas de protección y es usada para aceros bajos en carbono y en aleaciones. Sus ventajas son ah orro de energía y material con gran eficiencia y bajo 
+costo. También puede soldar acero inoxida ble con una mezcla de CO2 y Argón como 
+gas de protección si usa el alambre adecuado.  
+ 
+Características del equipo de soldar  Mega Mig 500:  
+ 
+ 
+• Bajo costo. Equivalente a cerca del 40% del costo de la soldadura al arco manual y 
+arco sumergido. 
+• Calor de arco altamente concentrado y eficiente produce gran penetración y 
+profunda poza de soldadura.  La alta ve locidad de fundido del alambre produce un 
+proceso de soldadura de alta  velocidad y sin escoria. 
+• Puede soldar en toda posición. 
+• Soldando con alambre delgado puede reducir  la deformación de la pieza de soldar. 
+• El cordón de soldadura tiene  una fuerte resistencia al óxido y quebraduras debido a 
+su contenido bajo hidrógeno. 
+ En la soldadora MEGAMIG 500  el voltaje de circuito abierto y de soldadura se 
+selecciona mediante selectores combinados y la velocidad del al ambre y corriente de 
+soldadura mediante potenciómetro. La soldadora MEGAMIG 500 es ampliamente usada en manufactura, astilleros, la industria mecánica etc. 
+ 
+  
+ 
+   
+ 
+    
+ 
+   
+ 
+   
+ 
+
+---
+
+Página 4
+
+ 4 2.- Operación Segura. 
+ 
+ 
+Cuidado del Usuario 
+ 
+• Siga las normas de seguridad y protección recomendadas por el fabricante.  Utilice ropa y 
+herramientas apropiadas para evitar dañar la vista y la piel. 
+• Cuando se este sold ando se debe usar la máscara de soldar cubriendo toda la cabeza, sólo se 
+puede realizar la observación visual del arco eléctrico a través del visor de la máscara.  
+ 
+ 
+ 
+ 
+ATENCIÓN  
+ 
+ 
+ 
+¾ El equipo de soldar de soldadura continua MEGAMIG 500 posee sistemas 
+de control y potencia electrónicos sofi sticados, por lo que se recomienda no 
+tratar el  equipo con brusquedad o a golpes.  
+¾ Antes de soldar verifique el estado de las conexiones.  Revise que la 
+conexión de tierra del enchufe esté correcta. 
+¾ Los humos y gases producidos durante el proceso de soldadura son dañinos 
+para la salud. Asegúrese de trabajar en lugares bien ventilados o con 
+extracción forzada para mantener la s emisiones lejos de la zona de 
+respiración. 
+¾ El rayo producido por la soldadura puede afectar la vista de las personas 
+cercanas, se recomienda cubrir la zona de l arco eléctrico mediante el uso de 
+cortinas  protectoras adecuadas.  
+¾ Solo personal debidamente capacitado está autorizado a mover o realizar 
+ajustes al equipo de soldar. 
+¾ La inducción electromagnética producid a por el equipo de soldar puede 
+afectar a personas con marcapasos cardía co u otro artefacto sensible, por lo 
+que no permita que  se acerque al e quipo de soldar en plena operación. 
+¾ El equipo de soldar no debe utilizarse como método para descongelar 
+tuberías . 
+¾ El equipo de soldar no debe utilizarse sin los paneles, ya que puede ser 
+peligroso para el operador y podría da ñar seriamente el funcionamiento de 
+su equipo . 
+¾ Evite la sobrecarga de su equipo revi sando previamente el ciclo de trabajo 
+de este . 
+¾ Tome la precaución de que la manguera de gas nunca se encuentre 
+presionada o doblada.   El radio de giro de la manguera  no puede ser 
+menor de 150 mm., de lo contrario pue de sufrir daño en su interior 
+¾ La pureza del CO2 no puede ser meno s que 99,5 %, su contenido de agua 
+no mayor que 0.005 % 
+¾ Nunca utilice la máquina por sobre  su ciclo de trabajo, ni provoque que se 
+active el termostato de seguridad. Con ello solo conseguirá acortar la vida 
+útil de los componentes y del equipo en general. 
+¾ Siempre verifique que el cable de so ldar no se encuentre maltratado. 
+ 
+ 
+  
+
+---
+
+Página 5
+
+ 5Medidas de seguridad a toma r para asegurar la correct a instalación del equipo. 
+ 
+ 
+ 
+L Asegúrese de que no exista riesgo potencial,  ta nto para el operador como para la máquina,  
+de caída de cualquier objeto extraño. 
+L El polvo, ácido o material corrosivo en el ambiente del lugar de trabajo y medio ambiente 
+corrosivo no deben sobrepasar los parámetros exigidos (exceptuándose los provocados a causa de la soldadura). 
+L El equipo de soldar debe instalarse protegido del sol, la lluvia, humedad excesiva o 
+temperaturas por bajo los -10° C o por sobre los  40° C. 
+L Deben existir al menos 50 cms. libres alrededor del equipo de soldar  para asegurar una 
+adecuada ventilación. 
+L No debe introducir piezas extrañas al equipo de soldar. 
+L No deben existir vibraciones excesivas en el área alrededor del lugar de trabajo de  la 
+máquina. 
+L Elija un área sin interferencias electromagnéticas. 
+L Asegúrese de instalar un interruptor automático de protección en la instalación eléctrica de 
+acuerdo a las especificaciones indicadas por el manual de servicio del equipo. 
+L El equipo de soldar debe instalarse horizo ntalmente, en una superficie plana. Si la 
+inclinación fuera superior a 15° se le debe ad icionar elementos anti vuelco para evitar la 
+inclinación del equipo. 
+L No se recomienda conectar su equipo de soldar a un grupo generador. 
+ 
+ 
+Chequeo de Seguridad 
+  
+Cada ítem del siguiente listado debe verificarse detalladamente antes de conectar la energía 
+eléctrica y comenzar  la operación:  
+ 
+; Verifique que la conexión de tierra de la toma  eléctrica del equipo de soldar esté conectada 
+a tierra en forma correcta. 
+; Verifique que los cables de salida no estén en corto circuito. 
+; Verifique que los cables de salida y alimentación estén en buenas condiciones, sin daños o 
+alteraciones y/o fuera de estándar. 
+; Corte el suministro de corriente  eléctrica antes de abrir la carcaza. 
+; Ante cualquier problema técnico que presente el equipo de soldar, recurra al servicio técnico 
+autorizado más cercano. 
+ 
+Se debe realizar chequeos regulares cada seis me ses por parte de personal calificado luego de la 
+instalación del equipo  de soldar. Estos chequeos deben incluir: 
+ 
+; Limpieza de rutina para asegurar que no existan condiciones subnormales como conectores 
+sueltos. 
+; Inspección de los accesorios externos. 
+; Chequeo del cable de soldar, para verificar que se encuentre en perfectas condiciones. 
+; Reemplazo del cable alimentador si se determina que está dañado o roto. 
+ 
+Si las normas de seguridad y de utilización no se observan atentamente, las operaciones de 
+soldadura pueden resultar peligrosas no solo pa ra el operador, sino in cluso para las personas que 
+se encuentren próximas al área de trabajo.  
+ 
+ 
+Primeros Auxilios:  
+ 
+El lugar de trabajo debe contar con un botiquín de primeros auxilios equipado a fin de socorrer en forma inmediata a posibles víctimas de un shock eléctrico.   Además debe disponer de todos los 
+implementos necesarios para tratar posibles quemaduras  a la piel y/u ojos (exposición directa a la luz 
+y calor emitidos en el proceso de soldadura.
+ 
+
+---
+
+Página 6
+
+6El Shoc k Eléctrico Puede Ser Morta l
+Si la persona  accidentada esta inconsciente y se sospecha un shock eléctrico, tenga la precaución de 
+no tocarla si ha quedado en conta cto con algún cuerpo posiblemente energizado. 
+Corte  el suministro  eléctrico que alimenta el equipo y recurra  a los cuidados de primeros auxilios.   
+Para alejar los cable s y/o partes energ izadas de la víctima, se recomienda utilizar trozos de madera 
+bien seca, como una escoba o  cualquier otro material  aislante.  
+3.- Especificaciones Técnicas. 
+Ambiente  al que el producto  es someti do 
+Rango  de temperatura ambiental:     
+   Al Soldar -10 ~ +40°  C 
+   Durante el transporte y almacenamiento -25 ~ +55° C 
+Humedad relativa:           
+   a 40° C  ≤ 50 %  
+    a 20° C  ≤ 90 %. 
+No debe existir vibraciones violentas en el área alrededor de la máquina 
+Proteja de la lluvia si se utiliza a la intemperie. 
+Requeri mientos para la fuente  de poder 
+a)El oscilograma de voltaje debe mostrar una onda de seno, la oscilación de la frecuencia no 
+debe exceder ± 1% del valor indicado. 
+b)La oscilación del voltaje no debe superar  ±  10 % del valor indicado. 
+c)El desbalance de la alimentación trifásica no debe exceder el 5% 
+Estructura  Principal 
+El equipo de Soldar  MEGAMIG 500 es una soldadora que ajusta su salida de corriente continua 
+mediante rectificadores controlados de silicio. El voltaje de circuito abierto y de soldadura se regula 
+mediante una combinación de selectores. El transformador principal provee voltaje AC que aísla la 
+entrada de la máquina  de la línea  de alimentación. Los reactores a la salida  filtran la señal para dar 
+una salida continua y estable que provee un mejor arco de soldadura. 
+Los módulos  de control proveen control eléctrico y lógico al sistema y energía  al mecanis mo de 
+arrastre del alambre de tal manera que se pueda variar fácilmente la velocidad del alambre mediante 
+un potenciómetro. La velocidad del alambre influye directamente en la corriente de soldadura. A un 
+mismo volta je, a mayor  velocidad del alambre mayor es la corriente de soldadura. 
+El equipo de Soldar  MEGAMIG 500, que actua como la fuente de poder, y el cabezal alimentador de 
+alambre POWER  TRACK son dos unidades que dependen la una de la otra y que están unidas por 
+un cable de  interconexión. 
+Datos Téc nicos 
+  Ítems      MegaMIG  -500
+ Voltaje de Entrada     3PH – 380 V. 
+ Frecuenci a       50 Hz.  
+ Corriente  de Entrada       40 A.  
+ Potencia  absorbida de Entra da    30 KVA. 
+ Tens ión en vacío      20 ~ 51 V. 
+ Tens ión de trabajo      19,5 ~  39 V. 
+ Rango de ajuste de corriente     110 - 500 A. 
+
+---
+
+Página 7
+
+ 7 Ciclo de trabajo       60 % 
+ Diámetros de Alambre      0,8 mm – 1,2 mm. 
+ Velocidad del Alambre     1,5 ~ 25 m/mim 
+ Índice de Aislación     H  Índice de Protección Carcaza    IP21S  Dimensión L×W×H      79×50×84 
+ P e s o        2 1 5  K g .  
+ 
+  
+Normativa que cump le el  equipo 
+ 
+El equipo de soldar MEGAMIG 500 cumple con los requerimientos de la norma EN 60974-1.  
+ 
+4.- Instalación. 
+ 
+Lugar de trabajo del equipo de soldar 
+ * El equipo de soldar debe ubicarse en lugares secos y con poco polvo, sin productos químicos corrosivos en los alrededores ni ga ses inflamables. 
+* El equipo de soldar debe instalarse protegido del sol, la lluvia, humedad excesiva o temperaturas 
+por bajo los -10° C o por sobre los  40° C. 
+* Deben existir al menos 50 cms. libres alrededor del equipo de soldar  para asegurar una adecuada ventilación. * Se deben instalar extractores de humos si la ventilación del área de trabajo no es adecuada.   
+ 
+   
+ 
+   
+ 
+   
+ 
+    
+ 
+   
+ 
+   
+ 
+    
+ 
+A) Diagrama de conexión  ALAMBRE DE SOLDAR
+SOLDADORAt
+PISTOLA DE SOLDAR
+CABLE SOLDAR
+PIEZA A SOLDAR
+TRIFASICARE CIR CUT ADOR AGUACO2(or CO2+Ar)TUBO DE GAS
+ALIMENTADOR DE ALAMBREREGULADOR
+SWITCH DE PISTOLAENTRADA
+SAIIDA
+RE CIR CUT ADOR AGUA
+ALIMENATCIONFUENTE
+
+
+---
+
+Página 8
+
+ 8 Conexión entre el equipo de soldar y la fuente de poder  
+ 
+ 
+Conecte el cable de alimentación del panel posterior a la línea trifásica. Nunca conecte la conexión a 
+tierra del equipo de soldar a una línea energizada, ya que podría sufrir electrocutamiento.   
+* NOTA : La conexión a tierra de la red eléctrica no es lo mismo que  el punto neutro de la red. 
+ 
+  
+Conexión entre el equipo de soldar y el cabezal alimentador del alambre 
+ 
+ Conecte el cable de interconexión entre la fuente de poder y el cabezal alimentador.  Apriete en 
+sentido reloj el conector para asegurar una buena fijación y contacto. Conecte el cable de control multihebra entre la fuente de poder y el cabezal alimentador de alambre. 
+ 
+ 
+Conexión entre el equipo de soldar y el sistema de gas. 
+ 
+ Asegúrese que el regulador de gas  este firmemente atornillado  a su conexión para evitar fugas de 
+gas. Luego conecte y fije firmemente el cable de calefacci ón a la conexión del calefactor del panel trasero 
+de la fuente de poder. 
+Conecte un extremo de la manguera de gas a la salida del regulador de presión y el otro extremo a la entrada de gas del alimentador de alambre.   
+Instalacion y conexión del alimentador  de alambre SUPER TRACK. 
+ 
+ 
+ 
+Seleccione el diámetro del alambre según el trabajo a ejecutar.  En función de este diámetro elija el 
+carrete, flexible y boquilla adecuados. Abra la cubierta del alimentador de alambre SUPER TRACK e instale en el eje del carrete. Introduzca el alambre  en el tubo de entrada del m ecanismo de arrastre y alínielo en la ranura del 
+rodillo de empuje adecuado.   Vuelva a centrarlo en  la boquilla de salidad y active el mecanismo de 
+presión.  
+Conexión del alimentador  de alambre  y la pistola 
+ 
+ 
+Conecte la pistola en el conector correspondiente del panel frontal y apriete firmemente.   
+Conexión del alimentador  de alambre  y la pistola 
+ 
+  
+Conecte un extremo del cable de tierra al conector correspondiente en el panel frontal de la fuente de 
+poder y atornille firmemente.   Con el otro ex tremo aprisione firmemente la pieza a soldar. 
+    
+ 
+ 
+ 
+
+---
+
+Página 9
+
+ 95.- Operación . 
+ 
+o ATENCIÓN    El equipo de soldar Mega Mig 500 está diseñado 
+con un nivel de protección  IP21S.  
+o Cuando el equipo de soldar esta en funcionamiento nunca intente 
+introducir el dedo o algún tipo de  varillas redondas de diámetro 
+inferior a 12.5 mm. (especialment e si es metálico) dentro del 
+equipo de soldar.    
+o Tampoco trate de poner objetos pesados encima del equipo de 
+soldar.   No se debe utilizar fuerza desmedida en el equipo de soldar.
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+    
+ 
+   
+ 
+   
+B) Diagrama de Paneles Principal y Posterior Mega Mig 500 
+ 
+   
+1.-   Led Indicador de Protección Térmica. 
+2.-   Led Indicador de Encendido.  3.-   Anillo de Sujeción.  4.-   Switch de Encendido. 
+5.-   Selector Fino de Voltaje.  
+6.-   Selector Grueso de Voltaje.  7.-   Ruedas Posteriores. 8.-   Ruedas Frontales. 
+9.-   Conector N° 1 Toma Tierra. 
+10.- Conector N° 2 Toma Tierra. 11.-  Fusible de Poder. 12.-   Cable Alimentador Trifásico. 
+13.-   Gancho Sujetador de Cable Alimentación. 14.-   Sujetador de Cilindro de Gas.  
+15.-   Placa Características Técnicas. 
+16.-   Conexión Regulador 36V. 17.-   Fusible Suministro. 18.-   Conector Alimentador. 
+19.-   Conector Cable de Control. 
+20.-   Rack Porta Cilindro de Gas.   
+  
+    
+ 
+ 5
+6
+7
+10984312
+201915
+1716
+18111314
+12
+
+---
+
+Página 10
+
+ 10  
+ 
+ 
+   
+ 
+    
+ 
+   
+ 
+   
+ 
+   
+ 
+    
+ 
+ 
+C) Diagrama de Paneles Principal y Posterior Alimentador Super Track 
+ 
+ 
+  1.-   Cubierta Protectora. 
+2.-   Ajuste de Tiempo de Burn Back.  
+3.-   Ajuste de Velocidad del Alambre.  4.-   Cabezal de Cobre. 5.-   Motor Alimentador del Cable.  6.-   Ruedas Frontales.  
+7.-   Pedestal. 
+8.-   Manilla de Transporte. 9.-   Tarjeta de Control. 10.- Transformador de Control. 
+11.-  Caja. 
+12.-   Pieza de Conexión. 13.-   Cable de Conexión. 14.-   Ruedas Posteriores.  
+15.-   Led Indicador de Encendido. 16.-   Visualizador Digital de Voltaje. 
+17.-   Perilla para Ajuste de la Velocidad del                    
+Alambre. 18.-   Selector de 2 o 4 tiempos. 19.-   Visualizador Digital de Amperaje. 20.-   Entrada Frontal Recirculador de Agua. 
+21.-   Salida Frontal Recirculador de Agua. 
+22.-   Conector para la Pistola 23.-   Eje Porta Carrete. 24.-   Conector de Gas 
+25.-   Conector Cable de Control. 
+26.-   Conector Fuente de Control. 27.-   Salida Posterior Recirculador de Agua. 28.-   Entrada Posterior Recirculador de Agua. 
+ 
+   
+ 
+    
+ 
+  
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+---
+
+Página 11
+
+ 11ATENCIÓN  
+  
+L Cuando el equipo de soldar es operado por largos períodos de tiempo, en el panel se activará  
+el Led indicador de protección activada (ter mostato, N° 1) lo que significa que la 
+temperatura interna del equipo  de soldar ha sobrepasado la temperatura de su diseño.   En 
+este caso el equipo de soldar se detendrá y el ventilador seguirá funcionando.   Una vez que 
+la temperatura baje lo suficiente, el led indi cador de protección activada se apagará y el 
+equipo de soldar quedará en cond iciones de reiniciar su operación. 
+ L El ventilador del sistema de enfriamiento  se activa  desde que el equipo de soldar se 
+encuentra en funcionamiento. 
+ 
+L Cuando finalice el trabajo  o se aleje por un momento del lugar, recuerde que debe apagar el 
+equipo de soldar. 
+ 
+L Los soldadores deben siempre utilizar los elementos de protección personal adecuados para 
+prevenir daño por arco y radiación térmica (Rop a de trabajo, guantes, máscara de soldar, 
+zapato de seguridad, etc.). 
+ 
+L Es necesario colocar cortinas protectoras al rededor del lugar de trabajo para prevenir 
+accidentes a terceros por efecto del arco eléct rico producido en el proceso de soldadura. 
+ 
+L En los alrededores del sitio de trabajo no debe haber productos inflamables o explosivos. 
+ 
+L Cada conexión en el equipo de soldar debe realizarse de manera correcta y segura. 
+ 
+ 
+ 
+Procedimiento bási co de soldadura 
+ 
+ A.- Al encender la máquina,  el led indi cador de encendido se debe iluminar. 
+B.- Regule la corriente de soldadura al valor requerido mediante la perilla de ajuste de corriente.  C.- Tome la Pistola Mig, apúntela  a la pieza a soldar, presione el switch y alimente con alambre el 
+punto de soldadura.   Observe el alambr e a traves de los surcos en el metal. 
+ El proceso de soldad ura es como sigue:
+ 
+ 
+Inicio – parte el gas ( 0.3 – 0.6 seg. ) – Se enciende el equipo – Alimentación de alambre – Se parte 
+soldando – Se apaga el equipo – Se detiene el gas ( 2-3 seg.)   
+ 
+ 
+Descripción de la Pistola 
+ 
+ 
+La pistola está compuesta por el sistema conductor del alambre, el cable de poder y la manilla de 
+disparo. Cable de poder es el flexible cubierto por la funda de nylon se ubica en el centro del cable y aloja en 
+su interior el alambre de soldar. El espacio entre el  flexible y el cable está cubierto por el gas de 
+protección. El cable de poder conduce por tanto la corriente de soldadura.       
+
+---
+
+Página 12
+
+ 12 
+ 
+  
+   
+ 
+    
+ 
+   
+ 
+  
+ 
+ 
+  
+D) Diagrama despiece de la pistola. 
+ 
+ 
+ 
+ 
+E) Diagrama despiece del cable de la pistola. 
+ 
+   
+ 
+ 
+ATENCIÓN
+ 
+ 
+ 
+• Antes de armar o desarmar la pistola se la debe desconectar de la energía eléctrica. 
+• La boquilla se debe reemplazar antes qu e la calidad de la soldadura se afecte. 
+• El cable de la pistola debe ser reemplazado cuando se encuentre cortado, su aislación 
+deteriorada, resquebrajada, quemada o con cortes.     
+ 
+ 
+ 
+  
+
+
+---
+
+Página 13
+
+ 13Función de 2 y 4 tiempos de l alimentador de alambre 
+ 
+Función de 2 tiempos  
+ 
+Al presionar el switch se inicia el gas de protecci ón, el movimiento del alambre y se tiene voltaje de 
+salida. Al soltar el Switch se detiene el gas, el movimiento del alambre y no se tiene voltaje de salida 
+ 
+Función de 4 tiempos
+ 
+ Al presionar el Switch se inicia el gas de protecci ón, el movimiento del alambre y se tiene voltaje de 
+salida. 
+Al soltar el Switch se mantienen las condiciones anteriores 
+Para detener el alambre, gas y bajar voltaje de salida se requiere presionar de nuevo el Switch y volver a soltarlo.  
+ 
+ 
+ATENCIÓN
+ 
+ 
+ 
+  
+• Revisión del gas, para ello presione para verificar el circuito del gas. 
+• Revisión de movimiento del alambre, para ello presione para verificar el movimiento del 
+alambre. 
+• Ajuste de la corriente de soldadura, para ello realice un  ajuste continuo de la velocidad del 
+alambre y por lo tanto de la  corriente de soldadura. 
+• Revisión de Burn Back, para ello realice un ajuste continuo del tiempo de burn back. 
+• Ajuste de corriente, para ello realice un ajuste continuo de la velocidad del alambre antes 
+del establecimiento del arco. 
+.   
+Mantención y Servicio 
+ 
+La máquina de soldar Mega Mig 500 es un equipo de soldar con gas de protección semiautomática.   El cumplimiento de un buen programa de mant enimiento asegurará  para el equipo un mejor 
+rendimiento y funcionamiento y una mayor vida útil de sus componentes.   Solo personal 
+debidamente entrenado y calificado está autorizado para reparar el equipo.   Ante cualquier duda o  necesidad  de asistencia técnica no  dude consulta r a nuestro servicio técnico. En todo caso personal 
+especializado podrá realizar la  reparación  y el ma ntenimiento del equipo de soldar.    No dude en 
+contactarnos para asistencia técnica, si se encuentre con problemas que no pueda solucionar  o de 
+difícil reparación .  
+  
+Principales tareas de mantenimiento:
+ 
+ 
+ 
+; Remoción de Polvo .Debe asegurarse que la máquina no esté conectada a una fuente de 
+poder  antes de proceder a la remoción de polvo. 
+ 
+; Asegurece que al dejar su equipo por un  largo periodo de inactividad, lo haga en un 
+ambiente seco, limpio y con buena ventilación. 
+ 
+; Limpieza periódica.  A través de personal especializado, se debe realizar limpieza  por 
+medio de aire comprimido seco para limpiar el interior del equipo de soldar.   También se debe revisar si existen componentes o cables sueltos, si los hubiera,  proceda a la reparación o reemplazo correspondiente.   Generalmente cu ando no existe polvo en demasía la limpieza 
+se debe realizar periódicamente, y cuando ex iste mucha acumulación de polvo la limpieza 
+se debe realizar con mayor frecuencia. 
+
+---
+
+Página 14
+
+ 14  
+; Mantenga el cable de poder en buen estado   Es necesario chequear periódicamente el cable 
+de alimentación del equipo de soldar, sin embargo, es aconsejable revisar cada vez que la 
+máquina sea utilizada de forma portátil. 
+ 
+; Revise Cables de  soldar.  Al momento de utilizar el equipo de soldar, el operador debe  
+revisar  que los cables de soldar no estén desconectados, no presenten cortes en el 
+aislamiento, etc.  En caso de que se presente alguno de estos problemas se debe proceder al cambio o reparación correspondiente.   
+ 
+; Revise regularmente que el circuito de gas no presente fugas y se mantenga completamente 
+sellado.   Verifique ademas que el ventilador y el motor alimentador estén funcionando 
+correctamente sin sonidos anormales ni cables sueltos. 
+ 
+; Limpie periódicamente la boquilla de escoria y suciedad. 
+ 
+; Utilice alambre Mig de calidad, que cuente con certificaciones. 
+ 
+; Reemplace los rodillos si se encuentran gastados o deteriorados.   Apriete los rodillos contra 
+el alambre sin sobrepresionar para asegurar un buen desplazamiento de éste. 
+ 
+ 
+ 
+ 
+ 
+ATENCIÓN  
+ 
+ 
+ 
+Si la tensión de salida se eleva a un nivel anor malmente alto no destap e el equipo, se deben 
+tomar todas las precauciones de seguridad para  evitar el riesgo de shock eléctrico. Está 
+prohibido que personal sin ent renamiento abra la carcaza. 
+Tenga la precaución que durante la limpieza de l equipo de soldar, no pasar a llevar cables o 
+partes al interior de este. 
+ 
+ 
+     
+ 
+        
+
+---
+
+Página 15
+
+ 156.- Solución a  Problemas Comunes. 
+ 
+ 
+No. Problema  Análisis  Solución 
+Fusible de entrada quemado Cambie el Fusible 
+Alimentación Eléctrica 
+desconectada. Verifique la conexión electrica 
+de la alimentación. 
+Interruptor de la pistola 
+defectuoso Cambie el interruptor 1 El mecanismo de arrastre 
+del alambre no opera al 
+presionar el interruptor de la 
+pistola 
+Cable defectuoso o cortado Cambie o repare el cable 
+Cable defectuoso o cortado Reemplace o repare el cable 
+Potenciómetro de ajuste de 
+corriente en el mecanismo de 
+arrastre defectuoso Cambie el potenciómetro 
+Alimentación eléctrica del 
+mecanismote arrastre 
+defectuoso. Verifique la instalación 
+eléctrica del mecanismo de 
+arrastre. 2 Hay voltaje en vacio y gas, 
+pero el mecanismo de 
+arrastre del alambre no 
+funciona 
+Módulo de control defectuoso. Cambie el módulo 
+Módulo de control defectuoso 
+ Cambie el módulo 
+3 
+ No hay voltaje en vacio 
+ Bobina del contactor sin energía 
+eléctrica. 
+ Conecte la energía eléctrica a la 
+bobina 
+Potenciómetro de ajuste 
+defectuoso Cambie el potenciómetro 4 
+ Corriente de soldadura 
+desajustada Módulo de control defectuoso Cambie el módulo. 
+Voltaje de alimentación es 
+menor de 350V Aumente el voltaje de 
+alimentación a su valor 
+nominal 
+Una o más fases desconectadas o 
+con mal contacto. Conecte las 3 fases 
+correctamente 5 Bajo Voltaje en Vacio 
+Puente de diodos de entrada 
+defectuoso Reemplace puente de entrada 
+Corriente, Voltaje y velocidad 
+seleccionada incorrecta. Seleccione el voltaje, corriente 
+y velocidad correcta. 
+Boquilla o rodillos inadecuados 
+para el tipo  y grosor del alambreCambie la boquilla o los 
+rodillos. 
+Movimiento del alambre con 
+mucha resistencia. Limpie o reemplace el flexible
+Una fase desconectada o 
+haciendo mal contacto Reconecte en forma correcta 
+las 3 fases. 6 
+ Arco inestable y gran 
+chapoteo 
+ 
+Puente rectificador primario 
+defectuoso Cambie el puente rectificador 
+primario. 
+Cable de tierra defectuoso o 
+cortado. Reemplace el cable de tierra. 
+7 Voltaje en vacio y 
+movimiento del alambre 
+normal pero no hay arco Pieza de soldar muy sucia, 
+oxidada o grasienta. Limpie la pieza o mancha de 
+grasa y suciedad 
+Manguera de gas defectuosa, 
+suelta o cortada Cambie la manguera y aprietela 
+firmemente 
+Manguera de gas bloqueada o 
+aprisionada Verifique el estado completo de 
+la manguera. 8 No hay gas de protección. 
+Válvula solenoide defectuosa o 
+quemada Repare la válvula o cámbiela. 
+Boquilla se pega con el alambreCambie la boquilla o 
+portaboquilla 
+El rodillo y la guía del alambre 
+no están en la misma linea Ajustar y hacer que ambos 
+operen en una misma linea 
+Diámetro interior del flexible 
+muy pequeño o muy grande Reemplace el flexible 9 Alambre desalineado con 
+respecto al rodillo o tubo de 
+entrada inclinado 
+Flexible sucio Limpie el flexible 
+10 Otros  Contacte al proveedor 
+ 
+
+---
+
+Página 16
+
+ 16  
+7.- Descripción Completa del Set. 
+ 
+ 
+ 
+* Soldadora Mega Mig 500        1pc *  A l i m e n t a d o r  P o w e r  T r a c k         1 p c  * Manual del Operador         1pc 
+* Certificado  
+ Accesorios * Pistola de soldar         1pc * Cable interconexión fuente de poder - alimentador  (Manguera de Gas 9 mts., Cable  
+   de  Poder 7 mts., Cable de Control 7 mts)      1pc 
+* Cable a Tierra (con prensa toma tierra) 4 mts.      1pc * Regulador de Gas         1pc * Set (boquillas, llave, abrazadera)       1pc 
+ 
+Observaciones:  a) La Garantía no cubre los elementos fungibles. 
+ 
+ 
+   
+8.- Transporte y Almacenamiento. 
+ 
+ 
+*Este modelo esta diseñado para su transporte en Cajas. Se adapta para ser transportada por grúas 
+horquilla o mantener en almacenes. Los equipos  deben ser firmemente fijados durante el transporte. 
+* Las máquinas deben mantenerse alejadas de la lluvia y nieve. Mantenga la hoja de Observaciones en el empaque. El almacén debe mantenerse seco, co n circulación de aire y libre de gases corrosivos 
+y polvo. Los rangos de temperatura tolerables son desde -25° a +55°, y la humedad ambiente no 
+puede superar el 90%. 
+* Una vez abierto el empaque, se sugiere guardarlo para futuros almacenajes o transporte (trabajo de limpieza es necesario antes de cerrar y almacenar la bolsa dentro de la caja) * Los usuarios debieran conservar los materiales de empaque para reutilizarse en caso de transportes largos. Si la máquina requiere de transbordos durante el transporte se debe utilizar una caja de 
+madera donde los signos de ‘Levante’ y  ‘Libre de Lluvias’ deben incluirse. 
+  
+ 
+ 
+        
+
+---
+
+Página 17
+
+ 179.-   Garantía.  
+ 
+ 
+ 
+Estimado cliente: 
+ 
+El producto adquirido por Ud. ha sido sometido a pr ocesos de control de calidad antes de llegar 
+a su poder. Sin embargo, en el evento que durante la vigencia de esta garantía y en los plazos indicados más abajo, su equipo presenta algún d esperfecto atribuible a su fabricación, Ud. 
+tendrá derecho a usar esta garantía, en los términos que más adelante se indican. 
+ 
+ 
+En que consiste esta Garantía: 
+ 
+Si su equipo de soldar Mega Mig 500 y al imentador Power Track  experimenta una falla 
+atribuible a defectos de fabricación, Ud. podrá h acer uso de la garantía, siendo su equipo de 
+soldar  revisada y reparada gratuitamente, in cluyendo mano de obra y repuestos. La garantía 
+debe hacerse efectiva las veces que sea necesario, cada vez que se presenten defectos atribuibles  
+a la fabricación del equipo, dent ro de su periodo de validez.  
+Período de vigencia de la garan tía 12 meses, en caso que su equipo requiera usar la garantía 
+ingresando a algún Servicio Técnico Autorizado, se ex tenderá el período de validez de ésta en el 
+número de días que demore la reparación.   
+Cómo se hace efectiva la Garantía: 
+ Para hacer efectiva la garantía, Ud. debe acudir con su producto  a cualquiera de los locales de 
+MYH COMERCIAL E INDUSTRIAL LTDA., debiendo presentar esta Póliza y el original de la 
+Boleta o Factura, en que pueda verificarse la f echa de compra y el modelo correspondiente al 
+equipo adquirido.   
+ 
+Exclusiones de la Garantía: 
+ 
+La garantía será válida, excepto  en las siguientes situaciones: 
+ 
+1. Enmiendas en la Póliza de Garantía, Boletas o Factura 
+2. Mal uso del equipo o intervenciones en él de terceros que no tengan la calidad de 
+Servicio Técnico Autorizado siendo est os las sucursales de MyH indicadas. 
+3. Conexión indebida del equipo o conexión a otros equipos distintos a los indicados en el 
+Manual de Uso. 
+4. Daños causados por golpes de bodegaje, tr ansporte incorrecto o trato indebido. 
+5. Daños causados por terremotos, inundaci ón, incendio, relámpago, anegaciones, 
+ambientes con excesivo polvo, humedad o salinidad, o por voltaje excesivo proveniente de la fuente de alimentación eléctrica. 
+6. Daño causado por presencia de cualquier elemento extraño en el interior del equipo. 
+7. Piezas o partes que han quedado inoperables por desgaste normal, mal uso o negligencia. 
+8. El equipo de soldar  que ha sido usa do trabajando más tiempo del recomendado, se 
+considera que ha sido mal operado debido a que  está sobrepasado su ciclo de trabajo. 
+9. Alteración o ausencia del número de serie puesto por la fábrica en el equipo. 
+10. Cuando el número de serie que aparece en la  póliza no corresponde al que figura en el 
+equipo. 
+11. Cuando el equipo no sea utilizado o cuidado en conformidad a las indicaciones y 
+especificaciones de su Manual de Uso. 
+12. En caso que el equipo de soldar  haya sido dañado sin responsabilidad de MyH no será 
+reparado a menos que el cliente acepte pagar pr eviamente su costo. Sin perjuicio de lo 
+
+---
+
+Página 18
+
+ 18 anterior el servicio técnico autorizado podrá,  a su arbitrio, sin responsabilidad posterior 
+y cuando lo estime conveniente, reparar grat uitamente el aparato dañado en el caso 
+citado, lo que consignará en la correspondi ente guía de entrega. Lo mismo hará al 
+devolver el aparato cuando éste no presente  defectos. 
+ 
+ 
+CONTACTO  
+ 
+ 
+M&H  Comercial e Industrial  Ltda. 
+Casa Matriz: Av. Pdte. Eduardo Frei Mont alva  Nº 4800 Renca – Santiago – CHILE  
+Fono Servicio Cliente. 6006002040    FAX : 6006005060  
+Página Web: www.myh.cl  
+ 
+ 
+ 
+Sucursales  
+ 
+ 
+ Pedro Aguirre Cerda 5270 Antofagasta. 
+ 
+ Limache 3363 Local 2 Viña del Mar. 
+ 
+ Colon 2512  Talcahuano 
+ 
+
+---
+
